@@ -1,5 +1,5 @@
-<h1 align="center">Wassup, I'm billy</h1>
-<h3 align="center">An aspiring frontend developer</h3>
+<h1 align="center">I'm billy</h1>
+<h3 align="center">An aspiring hopefully backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wbattist&label=Profile%20views&color=0e75b6&style=flat" alt="wbattist" /> </p>
 
