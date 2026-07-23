@@ -1,1 +1,3 @@
 ```i mostly do c++ and java, with the occasional use of html, css, and js for web development side projects.```
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=WBattist&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=WBattist&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&theme=github_dark_dimmed)
